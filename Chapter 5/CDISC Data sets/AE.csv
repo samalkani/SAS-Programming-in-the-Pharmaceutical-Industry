@@ -1,0 +1,21 @@
+﻿USUBJID,AEBODSYS,AEDECOD,AEREL,AESEV
+101,Cardiac disorders,Atrial flutter,NOT RELATED,MILD
+101,Gastrointestinal disorders,Constipation,POSSIBLY RELATED,MILD
+102,Cardiac disorders,Cardiac failure,POSSIBLY RELATED,MODERATE
+102,Psychiatric disorders,Delirium,NOT RELATED,MILD
+103,Cardiac disorders,Palpitations,NOT RELATED,MILD
+103,Cardiac disorders,Palpitations,NOT RELATED,MODERATE
+103,Cardiac disorders,Tachycardia,POSSIBLY RELATED,MODERATE
+115,Gastrointestinal disorders,Abdominal pain,RELATED,MODERATE
+115,Gastrointestinal disorders,Anal ulcer,RELATED,MILD
+116,Gastrointestinal disorders,Constipation,POSSIBLY RELATED,MILD
+117,Gastrointestinal disorders,Dyspepsia,POSSIBLY RELATED,MODERATE
+118,Gastrointestinal disorders,Flatulence,RELATED,SEVERE
+119,Gastrointestinal disorders,Hiatus hernia,NOT RELATED,SEVERE
+130,Nervous system disorders,Convulsion,NOT RELATED,MILD
+131,Nervous system disorders,Dizziness,POSSIBLY RELATED,MODERATE
+132,Nervous system disorders,Essential tremor,NOT RELATED,MILD
+135,Psychiatric disorders,Confusional state,NOT RELATED,SEVERE
+140,Psychiatric disorders,Delirium,NOT RELATED,MILD
+140,Psychiatric disorders,Sleep disorder,POSSIBLY RELATED,MILD
+141,Cardiac disorders,Palpitations,NOT RELATED,SEVERE

@@ -1,0 +1,7 @@
+﻿label,col0,col1,col2,pvalue
+#S={font_weight=bold} Age (years),,,,0.9527506283
+#{nbspace 6}N,29,31,60,
+#{nbspace 6}Mean,50.1,51.4,50.8,
+#{nbspace 6}Standard Deviation,13.22,13.23,13.13,
+#{nbspace 6}Minimum,23.0,32.0,23.0,
+#{nbspace 6}Maximum,77.0,75.0,77.0,

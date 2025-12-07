@@ -1,0 +1,14 @@
+﻿label,col0,col1,col2,pvalue,group
+#S={font_weight=bold} Age (years),,,,0.9527506283,1
+#{nbspace 6}N,29,31,60,,1
+#{nbspace 6}Mean,50.1,51.4,50.8,,1
+#{nbspace 6}Standard Deviation,13.22,13.23,13.13,,1
+#{nbspace 6}Minimum,23.0,32.0,23.0,,1
+#{nbspace 6}Maximum,77.0,75.0,77.0,,1
+#S={font_weight=bold} Sex,,,,0.2680753784,2
+#{nbspace 6}Male,16 ( 55.2%),22 ( 71.0%),38 ( 63.3%),,2
+#{nbspace 6}Female,12 ( 41.4%),9 ( 29.0%),21 ( 35.0%),,2
+#S={font_weight=bold} Race,,,,0.9269529465,3
+#{nbspace 6}White,18 ( 62.1%),18 ( 58.1%),36 ( 60.0%),,3
+#{nbspace 6}Black,8 ( 27.6%),10 ( 32.3%),18 ( 30.0%),,3
+#{nbspace 6}Other*,3 ( 10.3%),3 (  9.7%),6 ( 10.0%),,3

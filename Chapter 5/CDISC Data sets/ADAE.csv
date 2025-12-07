@@ -1,0 +1,41 @@
+﻿USUBJID,AEBODSYS,AEDECOD,AEREL,AESEV,TRTPN,aesevn,aoccifl,aoccsifl,aoccpifl
+101,Cardiac disorders,Atrial flutter,NOT RELATED,MILD,1,1,,Y,Y
+101,Cardiac disorders,Atrial flutter,NOT RELATED,MILD,2,1,,Y,Y
+101,Gastrointestinal disorders,Constipation,POSSIBLY RELATED,MILD,1,1,Y,Y,Y
+101,Gastrointestinal disorders,Constipation,POSSIBLY RELATED,MILD,2,1,Y,Y,Y
+102,Cardiac disorders,Cardiac failure,POSSIBLY RELATED,MODERATE,0,2,Y,Y,Y
+102,Cardiac disorders,Cardiac failure,POSSIBLY RELATED,MODERATE,2,2,Y,Y,Y
+102,Psychiatric disorders,Delirium,NOT RELATED,MILD,0,1,,Y,Y
+102,Psychiatric disorders,Delirium,NOT RELATED,MILD,2,1,,Y,Y
+103,Cardiac disorders,Palpitations,NOT RELATED,MILD,0,1,,,
+103,Cardiac disorders,Palpitations,NOT RELATED,MILD,2,1,,,
+103,Cardiac disorders,Palpitations,NOT RELATED,MODERATE,0,2,,,Y
+103,Cardiac disorders,Palpitations,NOT RELATED,MODERATE,2,2,,,Y
+103,Cardiac disorders,Tachycardia,POSSIBLY RELATED,MODERATE,0,2,Y,Y,Y
+103,Cardiac disorders,Tachycardia,POSSIBLY RELATED,MODERATE,2,2,Y,Y,Y
+115,Gastrointestinal disorders,Abdominal pain,RELATED,MODERATE,0,2,Y,Y,Y
+115,Gastrointestinal disorders,Abdominal pain,RELATED,MODERATE,2,2,Y,Y,Y
+115,Gastrointestinal disorders,Anal ulcer,RELATED,MILD,0,1,,,Y
+115,Gastrointestinal disorders,Anal ulcer,RELATED,MILD,2,1,,,Y
+116,Gastrointestinal disorders,Constipation,POSSIBLY RELATED,MILD,1,1,Y,Y,Y
+116,Gastrointestinal disorders,Constipation,POSSIBLY RELATED,MILD,2,1,Y,Y,Y
+117,Gastrointestinal disorders,Dyspepsia,POSSIBLY RELATED,MODERATE,0,2,Y,Y,Y
+117,Gastrointestinal disorders,Dyspepsia,POSSIBLY RELATED,MODERATE,2,2,Y,Y,Y
+118,Gastrointestinal disorders,Flatulence,RELATED,SEVERE,1,3,Y,Y,Y
+118,Gastrointestinal disorders,Flatulence,RELATED,SEVERE,2,3,Y,Y,Y
+119,Gastrointestinal disorders,Hiatus hernia,NOT RELATED,SEVERE,1,3,Y,Y,Y
+119,Gastrointestinal disorders,Hiatus hernia,NOT RELATED,SEVERE,2,3,Y,Y,Y
+130,Nervous system disorders,Convulsion,NOT RELATED,MILD,1,1,Y,Y,Y
+130,Nervous system disorders,Convulsion,NOT RELATED,MILD,2,1,Y,Y,Y
+131,Nervous system disorders,Dizziness,POSSIBLY RELATED,MODERATE,1,2,Y,Y,Y
+131,Nervous system disorders,Dizziness,POSSIBLY RELATED,MODERATE,2,2,Y,Y,Y
+132,Nervous system disorders,Essential tremor,NOT RELATED,MILD,0,1,Y,Y,Y
+132,Nervous system disorders,Essential tremor,NOT RELATED,MILD,2,1,Y,Y,Y
+135,Psychiatric disorders,Confusional state,NOT RELATED,SEVERE,1,3,Y,Y,Y
+135,Psychiatric disorders,Confusional state,NOT RELATED,SEVERE,2,3,Y,Y,Y
+140,Psychiatric disorders,Delirium,NOT RELATED,MILD,1,1,,,Y
+140,Psychiatric disorders,Delirium,NOT RELATED,MILD,2,1,,,Y
+140,Psychiatric disorders,Sleep disorder,POSSIBLY RELATED,MILD,1,1,Y,Y,Y
+140,Psychiatric disorders,Sleep disorder,POSSIBLY RELATED,MILD,2,1,Y,Y,Y
+141,Cardiac disorders,Palpitations,NOT RELATED,SEVERE,1,3,Y,Y,Y
+141,Cardiac disorders,Palpitations,NOT RELATED,SEVERE,2,3,Y,Y,Y

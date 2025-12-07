@@ -1,0 +1,35 @@
+﻿TRTPN,AEBODSYS,AEDECOD,frequency
+0,Cardiac disorders,Cardiac failure,1
+0,Cardiac disorders,Palpitations,1
+0,Cardiac disorders,Tachycardia,1
+0,Gastrointestinal disorders,Abdominal pain,1
+0,Gastrointestinal disorders,Anal ulcer,1
+0,Gastrointestinal disorders,Dyspepsia,1
+0,Nervous system disorders,Essential tremor,1
+0,Psychiatric disorders,Delirium,1
+1,Cardiac disorders,Atrial flutter,1
+1,Cardiac disorders,Palpitations,1
+1,Gastrointestinal disorders,Constipation,2
+1,Gastrointestinal disorders,Flatulence,1
+1,Gastrointestinal disorders,Hiatus hernia,1
+1,Nervous system disorders,Convulsion,1
+1,Nervous system disorders,Dizziness,1
+1,Psychiatric disorders,Confusional state,1
+1,Psychiatric disorders,Delirium,1
+1,Psychiatric disorders,Sleep disorder,1
+2,Cardiac disorders,Atrial flutter,1
+2,Cardiac disorders,Cardiac failure,1
+2,Cardiac disorders,Palpitations,2
+2,Cardiac disorders,Tachycardia,1
+2,Gastrointestinal disorders,Abdominal pain,1
+2,Gastrointestinal disorders,Anal ulcer,1
+2,Gastrointestinal disorders,Constipation,2
+2,Gastrointestinal disorders,Dyspepsia,1
+2,Gastrointestinal disorders,Flatulence,1
+2,Gastrointestinal disorders,Hiatus hernia,1
+2,Nervous system disorders,Convulsion,1
+2,Nervous system disorders,Dizziness,1
+2,Nervous system disorders,Essential tremor,1
+2,Psychiatric disorders,Confusional state,1
+2,Psychiatric disorders,Delirium,2
+2,Psychiatric disorders,Sleep disorder,1

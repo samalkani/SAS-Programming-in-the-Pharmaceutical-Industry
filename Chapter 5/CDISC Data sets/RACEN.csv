@@ -1,0 +1,5 @@
+﻿label,col0,col1,col2,pvalue
+#S={font_weight=bold} Race,,,,0.9269529465
+#{nbspace 6}White,18 ( 62.1%),18 ( 58.1%),36 ( 60.0%),
+#{nbspace 6}Black,8 ( 27.6%),10 ( 32.3%),18 ( 30.0%),
+#{nbspace 6}Other*,3 ( 10.3%),3 (  9.7%),6 ( 10.0%),

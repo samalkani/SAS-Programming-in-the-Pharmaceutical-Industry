@@ -1,0 +1,119 @@
+﻿TRTPN,frequency,AESEV,AEBODSYS,AEDECOD,description,sorter
+0,5,,,,Any Event,
+1,9,,,,Any Event,
+2,14,,,,Any Event,
+0,1,MILD,,,#{nbspace 6} Mild,MILD
+1,4,MILD,,,#{nbspace 6} Mild,MILD
+2,5,MILD,,,#{nbspace 6} Mild,MILD
+0,4,MODERATE,,,#{nbspace 6} Moderate,MODERATE
+1,1,MODERATE,,,#{nbspace 6} Moderate,MODERATE
+2,5,MODERATE,,,#{nbspace 6} Moderate,MODERATE
+1,4,SEVERE,,,#{nbspace 6} Severe,SEVERE
+2,4,SEVERE,,,#{nbspace 6} Severe,SEVERE
+0,2,,Cardiac disorders,,Cardiac disorders,Cardiac disorders
+1,2,,Cardiac disorders,,Cardiac disorders,Cardiac disorders
+2,4,,Cardiac disorders,,Cardiac disorders,Cardiac disorders
+0,0,MILD,Cardiac disorders,,#{nbspace 6} Mild,Cardiac disorders                          MILD
+1,1,MILD,Cardiac disorders,,#{nbspace 6} Mild,Cardiac disorders                          MILD
+2,1,MILD,Cardiac disorders,,#{nbspace 6} Mild,Cardiac disorders                          MILD
+0,2,MODERATE,Cardiac disorders,,#{nbspace 6} Moderate,Cardiac disorders                          MODERATE
+2,2,MODERATE,Cardiac disorders,,#{nbspace 6} Moderate,Cardiac disorders                          MODERATE
+1,1,SEVERE,Cardiac disorders,,#{nbspace 6} Severe,Cardiac disorders                          SEVERE
+2,1,SEVERE,Cardiac disorders,,#{nbspace 6} Severe,Cardiac disorders                          SEVERE
+1,1,,Cardiac disorders,Atrial flutter,#{nbspace 3}Atrial flutter,Cardiac disorders         Atrial flutter
+2,1,,Cardiac disorders,Atrial flutter,#{nbspace 3}Atrial flutter,Cardiac disorders         Atrial flutter
+1,1,MILD,Cardiac disorders,Atrial flutter,#{nbspace 6} Mild,Cardiac disorders         Atrial flutter   MILD
+2,1,MILD,Cardiac disorders,Atrial flutter,#{nbspace 6} Mild,Cardiac disorders         Atrial flutter   MILD
+0,1,,Cardiac disorders,Cardiac failure,#{nbspace 3}Cardiac failure,Cardiac disorders         Cardiac failure
+2,1,,Cardiac disorders,Cardiac failure,#{nbspace 3}Cardiac failure,Cardiac disorders         Cardiac failure
+0,1,MODERATE,Cardiac disorders,Cardiac failure,#{nbspace 6} Moderate,Cardiac disorders         Cardiac failure  MODERATE
+2,1,MODERATE,Cardiac disorders,Cardiac failure,#{nbspace 6} Moderate,Cardiac disorders         Cardiac failure  MODERATE
+0,1,,Cardiac disorders,Palpitations,#{nbspace 3}Palpitations,Cardiac disorders         Palpitations
+1,1,,Cardiac disorders,Palpitations,#{nbspace 3}Palpitations,Cardiac disorders         Palpitations
+2,2,,Cardiac disorders,Palpitations,#{nbspace 3}Palpitations,Cardiac disorders         Palpitations
+0,0,MILD,Cardiac disorders,Palpitations,#{nbspace 6} Mild,Cardiac disorders         Palpitations     MILD
+2,0,MILD,Cardiac disorders,Palpitations,#{nbspace 6} Mild,Cardiac disorders         Palpitations     MILD
+0,1,MODERATE,Cardiac disorders,Palpitations,#{nbspace 6} Moderate,Cardiac disorders         Palpitations     MODERATE
+2,1,MODERATE,Cardiac disorders,Palpitations,#{nbspace 6} Moderate,Cardiac disorders         Palpitations     MODERATE
+1,1,SEVERE,Cardiac disorders,Palpitations,#{nbspace 6} Severe,Cardiac disorders         Palpitations     SEVERE
+2,1,SEVERE,Cardiac disorders,Palpitations,#{nbspace 6} Severe,Cardiac disorders         Palpitations     SEVERE
+0,1,,Cardiac disorders,Tachycardia,#{nbspace 3}Tachycardia,Cardiac disorders         Tachycardia
+2,1,,Cardiac disorders,Tachycardia,#{nbspace 3}Tachycardia,Cardiac disorders         Tachycardia
+0,1,MODERATE,Cardiac disorders,Tachycardia,#{nbspace 6} Moderate,Cardiac disorders         Tachycardia      MODERATE
+2,1,MODERATE,Cardiac disorders,Tachycardia,#{nbspace 6} Moderate,Cardiac disorders         Tachycardia      MODERATE
+0,2,,Gastrointestinal disorders,,Gastrointestinal disorders,Gastrointestinal disorders
+1,4,,Gastrointestinal disorders,,Gastrointestinal disorders,Gastrointestinal disorders
+2,6,,Gastrointestinal disorders,,Gastrointestinal disorders,Gastrointestinal disorders
+0,0,MILD,Gastrointestinal disorders,,#{nbspace 6} Mild,Gastrointestinal disorders                 MILD
+1,2,MILD,Gastrointestinal disorders,,#{nbspace 6} Mild,Gastrointestinal disorders                 MILD
+2,2,MILD,Gastrointestinal disorders,,#{nbspace 6} Mild,Gastrointestinal disorders                 MILD
+0,2,MODERATE,Gastrointestinal disorders,,#{nbspace 6} Moderate,Gastrointestinal disorders                 MODERATE
+2,2,MODERATE,Gastrointestinal disorders,,#{nbspace 6} Moderate,Gastrointestinal disorders                 MODERATE
+1,2,SEVERE,Gastrointestinal disorders,,#{nbspace 6} Severe,Gastrointestinal disorders                 SEVERE
+2,2,SEVERE,Gastrointestinal disorders,,#{nbspace 6} Severe,Gastrointestinal disorders                 SEVERE
+0,1,,Gastrointestinal disorders,Abdominal pain,#{nbspace 3}Abdominal pain,Gastrointestinal disordersAbdominal pain
+2,1,,Gastrointestinal disorders,Abdominal pain,#{nbspace 3}Abdominal pain,Gastrointestinal disordersAbdominal pain
+0,1,MODERATE,Gastrointestinal disorders,Abdominal pain,#{nbspace 6} Moderate,Gastrointestinal disordersAbdominal pain   MODERATE
+2,1,MODERATE,Gastrointestinal disorders,Abdominal pain,#{nbspace 6} Moderate,Gastrointestinal disordersAbdominal pain   MODERATE
+0,1,,Gastrointestinal disorders,Anal ulcer,#{nbspace 3}Anal ulcer,Gastrointestinal disordersAnal ulcer
+2,1,,Gastrointestinal disorders,Anal ulcer,#{nbspace 3}Anal ulcer,Gastrointestinal disordersAnal ulcer
+0,1,MILD,Gastrointestinal disorders,Anal ulcer,#{nbspace 6} Mild,Gastrointestinal disordersAnal ulcer       MILD
+2,1,MILD,Gastrointestinal disorders,Anal ulcer,#{nbspace 6} Mild,Gastrointestinal disordersAnal ulcer       MILD
+1,2,,Gastrointestinal disorders,Constipation,#{nbspace 3}Constipation,Gastrointestinal disordersConstipation
+2,2,,Gastrointestinal disorders,Constipation,#{nbspace 3}Constipation,Gastrointestinal disordersConstipation
+1,2,MILD,Gastrointestinal disorders,Constipation,#{nbspace 6} Mild,Gastrointestinal disordersConstipation     MILD
+2,2,MILD,Gastrointestinal disorders,Constipation,#{nbspace 6} Mild,Gastrointestinal disordersConstipation     MILD
+0,1,,Gastrointestinal disorders,Dyspepsia,#{nbspace 3}Dyspepsia,Gastrointestinal disordersDyspepsia
+2,1,,Gastrointestinal disorders,Dyspepsia,#{nbspace 3}Dyspepsia,Gastrointestinal disordersDyspepsia
+0,1,MODERATE,Gastrointestinal disorders,Dyspepsia,#{nbspace 6} Moderate,Gastrointestinal disordersDyspepsia        MODERATE
+2,1,MODERATE,Gastrointestinal disorders,Dyspepsia,#{nbspace 6} Moderate,Gastrointestinal disordersDyspepsia        MODERATE
+1,1,,Gastrointestinal disorders,Flatulence,#{nbspace 3}Flatulence,Gastrointestinal disordersFlatulence
+2,1,,Gastrointestinal disorders,Flatulence,#{nbspace 3}Flatulence,Gastrointestinal disordersFlatulence
+1,1,SEVERE,Gastrointestinal disorders,Flatulence,#{nbspace 6} Severe,Gastrointestinal disordersFlatulence       SEVERE
+2,1,SEVERE,Gastrointestinal disorders,Flatulence,#{nbspace 6} Severe,Gastrointestinal disordersFlatulence       SEVERE
+1,1,,Gastrointestinal disorders,Hiatus hernia,#{nbspace 3}Hiatus hernia,Gastrointestinal disordersHiatus hernia
+2,1,,Gastrointestinal disorders,Hiatus hernia,#{nbspace 3}Hiatus hernia,Gastrointestinal disordersHiatus hernia
+1,1,SEVERE,Gastrointestinal disorders,Hiatus hernia,#{nbspace 6} Severe,Gastrointestinal disordersHiatus hernia    SEVERE
+2,1,SEVERE,Gastrointestinal disorders,Hiatus hernia,#{nbspace 6} Severe,Gastrointestinal disordersHiatus hernia    SEVERE
+0,1,,Nervous system disorders,,Nervous system disorders,Nervous system disorders
+1,2,,Nervous system disorders,,Nervous system disorders,Nervous system disorders
+2,3,,Nervous system disorders,,Nervous system disorders,Nervous system disorders
+0,1,MILD,Nervous system disorders,,#{nbspace 6} Mild,Nervous system disorders                   MILD
+1,1,MILD,Nervous system disorders,,#{nbspace 6} Mild,Nervous system disorders                   MILD
+2,2,MILD,Nervous system disorders,,#{nbspace 6} Mild,Nervous system disorders                   MILD
+1,1,MODERATE,Nervous system disorders,,#{nbspace 6} Moderate,Nervous system disorders                   MODERATE
+2,1,MODERATE,Nervous system disorders,,#{nbspace 6} Moderate,Nervous system disorders                   MODERATE
+1,1,,Nervous system disorders,Convulsion,#{nbspace 3}Convulsion,Nervous system disorders  Convulsion
+2,1,,Nervous system disorders,Convulsion,#{nbspace 3}Convulsion,Nervous system disorders  Convulsion
+1,1,MILD,Nervous system disorders,Convulsion,#{nbspace 6} Mild,Nervous system disorders  Convulsion       MILD
+2,1,MILD,Nervous system disorders,Convulsion,#{nbspace 6} Mild,Nervous system disorders  Convulsion       MILD
+1,1,,Nervous system disorders,Dizziness,#{nbspace 3}Dizziness,Nervous system disorders  Dizziness
+2,1,,Nervous system disorders,Dizziness,#{nbspace 3}Dizziness,Nervous system disorders  Dizziness
+1,1,MODERATE,Nervous system disorders,Dizziness,#{nbspace 6} Moderate,Nervous system disorders  Dizziness        MODERATE
+2,1,MODERATE,Nervous system disorders,Dizziness,#{nbspace 6} Moderate,Nervous system disorders  Dizziness        MODERATE
+0,1,,Nervous system disorders,Essential tremor,#{nbspace 3}Essential tremor,Nervous system disorders  Essential tremor
+2,1,,Nervous system disorders,Essential tremor,#{nbspace 3}Essential tremor,Nervous system disorders  Essential tremor
+0,1,MILD,Nervous system disorders,Essential tremor,#{nbspace 6} Mild,Nervous system disorders  Essential tremor MILD
+2,1,MILD,Nervous system disorders,Essential tremor,#{nbspace 6} Mild,Nervous system disorders  Essential tremor MILD
+0,1,,Psychiatric disorders,,Psychiatric disorders,Psychiatric disorders
+1,2,,Psychiatric disorders,,Psychiatric disorders,Psychiatric disorders
+2,3,,Psychiatric disorders,,Psychiatric disorders,Psychiatric disorders
+0,1,MILD,Psychiatric disorders,,#{nbspace 6} Mild,Psychiatric disorders                      MILD
+1,1,MILD,Psychiatric disorders,,#{nbspace 6} Mild,Psychiatric disorders                      MILD
+2,2,MILD,Psychiatric disorders,,#{nbspace 6} Mild,Psychiatric disorders                      MILD
+1,1,SEVERE,Psychiatric disorders,,#{nbspace 6} Severe,Psychiatric disorders                      SEVERE
+2,1,SEVERE,Psychiatric disorders,,#{nbspace 6} Severe,Psychiatric disorders                      SEVERE
+1,1,,Psychiatric disorders,Confusional state,#{nbspace 3}Confusional state,Psychiatric disorders     Confusional state
+2,1,,Psychiatric disorders,Confusional state,#{nbspace 3}Confusional state,Psychiatric disorders     Confusional state
+1,1,SEVERE,Psychiatric disorders,Confusional state,#{nbspace 6} Severe,Psychiatric disorders     Confusional stateSEVERE
+2,1,SEVERE,Psychiatric disorders,Confusional state,#{nbspace 6} Severe,Psychiatric disorders     Confusional stateSEVERE
+0,1,,Psychiatric disorders,Delirium,#{nbspace 3}Delirium,Psychiatric disorders     Delirium
+1,1,,Psychiatric disorders,Delirium,#{nbspace 3}Delirium,Psychiatric disorders     Delirium
+2,2,,Psychiatric disorders,Delirium,#{nbspace 3}Delirium,Psychiatric disorders     Delirium
+0,1,MILD,Psychiatric disorders,Delirium,#{nbspace 6} Mild,Psychiatric disorders     Delirium         MILD
+1,1,MILD,Psychiatric disorders,Delirium,#{nbspace 6} Mild,Psychiatric disorders     Delirium         MILD
+2,2,MILD,Psychiatric disorders,Delirium,#{nbspace 6} Mild,Psychiatric disorders     Delirium         MILD
+1,1,,Psychiatric disorders,Sleep disorder,#{nbspace 3}Sleep disorder,Psychiatric disorders     Sleep disorder
+2,1,,Psychiatric disorders,Sleep disorder,#{nbspace 3}Sleep disorder,Psychiatric disorders     Sleep disorder
+1,1,MILD,Psychiatric disorders,Sleep disorder,#{nbspace 6} Mild,Psychiatric disorders     Sleep disorder   MILD
+2,1,MILD,Psychiatric disorders,Sleep disorder,#{nbspace 6} Mild,Psychiatric disorders     Sleep disorder   MILD

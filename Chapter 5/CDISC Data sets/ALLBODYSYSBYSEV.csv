@@ -1,0 +1,25 @@
+﻿AESEV,TRTPN,AEBODSYS,frequency
+MILD,0,Cardiac disorders,0
+MILD,0,Gastrointestinal disorders,0
+MILD,0,Nervous system disorders,1
+MILD,0,Psychiatric disorders,1
+MILD,1,Cardiac disorders,1
+MILD,1,Gastrointestinal disorders,2
+MILD,1,Nervous system disorders,1
+MILD,1,Psychiatric disorders,1
+MILD,2,Cardiac disorders,1
+MILD,2,Gastrointestinal disorders,2
+MILD,2,Nervous system disorders,2
+MILD,2,Psychiatric disorders,2
+MODERATE,0,Cardiac disorders,2
+MODERATE,0,Gastrointestinal disorders,2
+MODERATE,1,Nervous system disorders,1
+MODERATE,2,Cardiac disorders,2
+MODERATE,2,Gastrointestinal disorders,2
+MODERATE,2,Nervous system disorders,1
+SEVERE,1,Cardiac disorders,1
+SEVERE,1,Gastrointestinal disorders,2
+SEVERE,1,Psychiatric disorders,1
+SEVERE,2,Cardiac disorders,1
+SEVERE,2,Gastrointestinal disorders,2
+SEVERE,2,Psychiatric disorders,1

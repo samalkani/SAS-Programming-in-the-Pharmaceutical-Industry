@@ -1,0 +1,4 @@
+﻿label,col0,col1,col2,pvalue
+#S={font_weight=bold} Sex,,,,0.2680753784
+#{nbspace 6}Male,16 ( 55.2%),22 ( 71.0%),38 ( 63.3%),
+#{nbspace 6}Female,12 ( 41.4%),9 ( 29.0%),21 ( 35.0%),
